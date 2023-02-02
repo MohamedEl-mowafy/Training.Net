@@ -1,0 +1,11 @@
+@page
+@model web.Views.Home.viewModel
+@{
+    ViewData["Title"] = "view";
+}
+
+<h1>view</h1>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

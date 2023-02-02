@@ -1,0 +1,5 @@
+/Users/mohamedelmwafy/Desktop/projects-with-.netCore/my-portfilio/core/obj/Debug/net7.0/core.csproj.AssemblyReference.cache
+/Users/mohamedelmwafy/Desktop/projects-with-.netCore/my-portfilio/core/obj/Debug/net7.0/core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedelmwafy/Desktop/projects-with-.netCore/my-portfilio/core/obj/Debug/net7.0/core.AssemblyInfoInputs.cache
+/Users/mohamedelmwafy/Desktop/projects-with-.netCore/my-portfilio/core/obj/Debug/net7.0/core.AssemblyInfo.cs
+/Users/mohamedelmwafy/Desktop/projects-with-.netCore/my-portfilio/core/obj/Debug/net7.0/core.csproj.CoreCompileInputs.cache
